@@ -1,0 +1,167 @@
+*
+{
+	margin:0;
+	padding:0;
+	box-sizing:border-box;  
+}
+.container{
+	width:1280px;
+	margin:0 auto;
+}
+
+.row{
+	 display:flex;
+	 flex-wrap:wrap;
+	 align-items: center;
+    justify-content: space-around;
+}
+
+.col-1{
+width:8.33%;
+padding:0 10px;
+}
+
+.col-2{
+width:16.66%;
+padding:0 10px;
+}
+.col-3{
+width:25%;
+padding:0 10px;
+}
+.col-4{
+width:33.33%;
+padding:0 10px;
+}
+.col-5{
+width:41.66%;
+padding:0 10px;
+}
+.col-6{
+width:50%;
+padding:0 10px;
+}
+.col-7{
+width:58.33%;
+padding:0 10px;
+}
+.col-8{
+width:66.66%;
+padding:0 10px;
+}
+.col-9{
+width:75%;
+padding:0 10px;
+}
+.col-10{
+width:83.33%;
+padding:0 10px;
+}
+.col-11{
+width:91.66%;
+padding:0 10px;
+}
+.col-12{
+width:100%;
+padding:0 10px;
+}
+section{
+	padding:30px 0;
+}
+.item-left{
+	background-color:pink;
+	height:300px;
+}
+.item-right{
+	background-color:grey;
+	height:300px;
+}
+.item-left1{
+	background-color:pink;
+	height:300px;
+}
+.item-right1{
+	background-color:grey;
+	height:300px;
+}
+.item-left2{
+	background-color:pink;
+	height:350px;
+}
+.item-right2{
+	background-color:grey;
+	height:300px;
+}
+.item-right2{
+	background-color:grey;
+	height:300px;
+}
+.item-right2{
+	background-color:grey;
+	height:300px;
+}
+.items{
+	background-color:pink;
+	height:200px;	
+}
+.item3{
+	background-color:gray;
+	height:300px;
+}
+.item4{
+	background-color:pink;
+	height:300px;
+	margin-top: 35px;
+}
+.item5{
+	background-color:grey;
+	height:350px;
+}
+
+.item6{
+	background-color:pink;
+	height:400px;
+}
+.item7{
+	background-color:grey;
+	height:400px;
+}
+.item8{
+	background-color:pink;
+	height:400px;
+}
+.item9{
+	background-color:grey;
+	height:300px;
+}
+
+.item10{
+	background-color:pink;
+	height:300px;
+}
+
+.item11{
+	background-color:grey;
+	height:100px;
+}
+.item12{
+	background-color:pink;
+	height:100px;
+}
+.item13{
+	background-color:grey;
+	height:100px;
+}
+.item14{
+	background-color:pink;
+	height:100px;
+}
+
+.item15{
+	background-color:grey;
+	height:200px;
+}
+.item16{
+	background-color:pink;
+	height:100px;
+}
